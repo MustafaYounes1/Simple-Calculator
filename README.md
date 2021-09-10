@@ -1,1 +1,3 @@
-# Simple-Calculator
+# Simple Calculator
+
+![Calculator](images/Calculator.png)
